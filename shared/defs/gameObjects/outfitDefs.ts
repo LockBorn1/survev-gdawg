@@ -826,7 +826,7 @@ const SkinDefs: Record<string, OutfitDef> = {
         name: "Ghillie Suit",
         ghillie: true,
         skinImg: {
-            baseTint: 8630096,
+            baseTint: 16303476,
             baseSprite: "player-base-01.img",
             handTint: 8630096,
             handSprite: "player-hands-01.img",
